@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan
-- 👀 I’m interested in web Development and Python 
+- 👀 Skilled in PHP web development. 
 - 🌱 done learning cpp, OOP, Datastructures, HTML, CSS JS, JQuery, PHP and many more coming
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me :- email @hassi.x.malik@gmail.com
