@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hassan
-- 👀 Skilled in PHP web development. 
+- 👀 Skilled in Full stack web development. 
 - 🌱 done learning cpp, OOP, Datastructures, HTML, CSS JS, JQuery, PHP and many more coming
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me :- email @hassi.x.malik@gmail.com
