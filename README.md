@@ -12,7 +12,12 @@
   <a href="https://twitter.com/hasixmalik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </div>
     
-## Tech Stack
+
+## Github Stats
+
+[![Hassixmalik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassixmalik&count_private=true&show_icons=true&theme=tokyonight&card_width=400px)](https://github.com/hassixmalik/hassixmalik)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hassixmalik&theme=tokyonight&card_width=400px)](https://github.com/hassixmalik/hassixmalik) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassixmalik&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/hassixmalik/hassixmalik)
 
 ### Programming Languages
     
@@ -58,8 +63,3 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 </div>
 
-## Github Stats
-
-[![Hassixmalik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassixmalik&count_private=true&show_icons=true&theme=tokyonight&card_width=400px)](https://github.com/hassixmalik/hassixmalik)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hassixmalik&theme=tokyonight&card_width=400px)](https://github.com/hassixmalik/hassixmalik) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassixmalik&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/hassixmalik/hassixmalik)
